@@ -1,7 +1,7 @@
+### Hi there ,I'm saphyxia.
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saphyxia&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
+![saphyxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=saphyxia&show_icons=true)
 
 
 
