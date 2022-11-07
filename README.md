@@ -12,4 +12,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="(https://github-readme-stats.vercel.app/api?username=saphyxia&count_private=true&theme=buefy&show_icons=true)" alt="saphyxia" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saphyxia&count_private=true&theme=buefy&show_icons=true" alt="saphyxia" />
